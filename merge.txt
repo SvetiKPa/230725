@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-##<<<<<<< HEAD
+
+
+>>>>>>> bcaf8167ce0847fc1ed41750870601565721811f
 this is some content to mess with
 text content to append
-#=======
-#NEW INFO
-#>>>>>>> new_branch_to_merge_later
-#rewrite
+
+#>>>>>>> new_branch_to_merge_latewrite
 #=======
 whrite
 >>>>>>> new_branch_to_merge_later
